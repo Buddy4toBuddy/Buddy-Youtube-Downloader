@@ -1,2 +1,3 @@
 # Buddy-Youtube-Downloader
-This Application is for downloading youtube videos and audios in various resolution and quality.
+This Application is for downloading YouTube videos and audio in various resolutions and quality levels.
+
